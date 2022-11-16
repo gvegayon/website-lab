@@ -41,3 +41,9 @@ p a {
 p {
 	color: gray
 }
+
+/* Securing min height */
+section :not(:first-of-type) {
+    min-height: 80vh;
+    border-top: none;
+}
