@@ -63,6 +63,6 @@ section :not(:first-of-type) {
 }
 
 .navbar {
-	display: flex;
+display: flex;
   justify-content: center;
 }

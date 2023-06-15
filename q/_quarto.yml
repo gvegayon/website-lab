@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "q"
+  back-to-top-navigation: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - styles.css
+      - styles.scss
+    toc: true
+
+
+
