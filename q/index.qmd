@@ -1,7 +1,7 @@
 ---
-title: "q"
 ---
 
-This is a Quarto website.
+::: {.section id="research" style="background: rgb(236, 236, 236)"}
+# Research
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::

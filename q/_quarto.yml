@@ -4,14 +4,11 @@ project:
 website:
   title: "q"
   back-to-top-navigation: true
-  navbar:
-    pinned: true
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  
+include-in-header: 
+  - header.html
 
-
+resources: img/*
 
 format:
   html:
